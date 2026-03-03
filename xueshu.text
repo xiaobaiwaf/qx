@@ -42,5 +42,5 @@ DOMAIN-SUFFIX,cnki.com
 DOMAIN-SUFFIX,datauthor.com
 DOMAIN-SUFFIX,edu.cn
 DOMAIN-SUFFIX,aiaa.org
-DOMAIN-SUFFIX,sci-hub.ee
+DOMAIN-KEYWORD,sci-hub
 DOMAIN-KEYWORD,nwpu
